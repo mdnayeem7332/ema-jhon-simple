@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightcoral;
+    padding: 7px;
+    margin: 150px 5px ;
+}
+.product-detail{
+    margin: 10px 10px 10px 20px ;
+}
+.product-detail a{
+    text-decoration: none;
+}
+.product-detail button{
+    background-color:orange;
+    border: none;
+    padding: 7px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
